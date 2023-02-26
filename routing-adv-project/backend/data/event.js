@@ -1,4 +1,5 @@
-const fs = require('node:fs/promises');
+/* const fs = require('node:fs/promises');
+ */const fs = require('fs').promises;
 
 const { v4: generateId } = require('uuid');
 
