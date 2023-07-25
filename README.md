@@ -1,1 +1,1 @@
-# studingReact
+# React course Udemy
